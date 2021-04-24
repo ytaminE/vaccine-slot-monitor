@@ -25,7 +25,7 @@ Instead of clicking over the dates in calendar to check vaccine avaibility one b
 
 - It checks availability every 15 seconds by default, interval could be changed by modifying `check_interval`
 
-- When spots are found, it prints location, date and number of spots left in red and makes this [sound](https://freesound.org/data/previews/80/80921_1022651-lq.mp3)
+- When spots are found, it prints location, date and number of spots left in red color and makes this [sound](https://freesound.org/data/previews/80/80921_1022651-lq.mp3)
 
 - It may fail to make the sound if you never interact with webistes (see [chrome policy](https://developers.google.com/web/updates/2017/09/autoplay-policy-changes)), messages will still be printed.
 
