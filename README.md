@@ -14,9 +14,9 @@
   </p>
 </p>
 
-## About the project
+## About the script
 
-Instead of clicking over the dates in calendar to check vaccine avaibility one by one, it tells you number of spots left periodically and alerts when spots are found.
+Instead of clicking over the dates in calendar to check vaccine avaibility one by one, it tells you the number of spots left and alerts when spots are found.
 
 
 ## Notes
