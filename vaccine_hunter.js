@@ -23,7 +23,7 @@
 
         const key = 'b6f65518-d5bc-4113-b7ed-ee33f7574929'
         const domain = 'https://uht-public.vertoengage.com/engage/api/api/cac-open-clinic/v1/slots/availability'
-        const locations = ['WCC', 'RPV']
+        const locations = ['WCC', 'RPV', 'RUV']
         const type = 'Communities'
 
         const check_interval = 15 * 1000 // milliseconds
